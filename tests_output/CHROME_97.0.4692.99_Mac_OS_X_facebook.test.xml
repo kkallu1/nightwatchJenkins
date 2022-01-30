@@ -5,9 +5,9 @@
 
   <testsuite name="facebook.test"
     errors="0" failures="0" hostname="" id="" package="facebook.test" skipped="0"
-    tests="1" time="1.600" timestamp="">
+    tests="1" time="1.824" timestamp="">
   
-    <testcase name="Login test with invalid cred" classname="facebook.test" time="1.600" assertions="2">
+    <testcase name="Login test with invalid cred" classname="facebook.test" time="1.824" assertions="2">
 
     
 
